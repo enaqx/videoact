@@ -1,0 +1,11 @@
+{
+  "name": "react-video",
+  "version": "0.0.1",
+  "description": "React video viewer",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.4.5"
+  },
+  "author": "Nick Raienko",
+  "license": "BSD"
+}
