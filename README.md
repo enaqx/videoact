@@ -27,6 +27,7 @@
 * [MongoDB](http://www.mongodb.org/)
 * [Mongoose](http://mongoosejs.com/)
 * [Mocha](http://visionmedia.github.io/mocha/)
+* [Istanbul](https://github.com/gotwarlost/istanbul)
 
 ### License
 
