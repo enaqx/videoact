@@ -1,6 +1,9 @@
 Active Video Sharing
 ========================
 
+[![dependencies][deps.img]][deps.url]
+[![devdependencies][devdeps.img]][devdeps.url]
+
 ### Prerequisite
 * [NodeJS](http://nodejs.org/download/) > 0.11.9
 * [npm](https://www.npmjs.org/)
@@ -28,3 +31,8 @@ Active Video Sharing
 ### License
 
 The plugin is under MIT license, please see the LICENSE file provided with the module.
+
+[deps.img]: https://david-dm.org/enaqx/videoact.svg
+[deps.url]: https://david-dm.org/enaqx/videoact
+[devdeps.img]: https://david-dm.org/enaqx/videoact/dev-status.svg
+[devdeps.url]: https://david-dm.org/enaqx/videoact#info=devDependencies
