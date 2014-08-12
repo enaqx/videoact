@@ -2,6 +2,7 @@
 
 [![dependencies][deps.img]][deps.url]
 [![devdependencies][devdeps.img]][devdeps.url]
+[![Tasks][waffle.img]][waffle.url]
 
 ### Prerequisite
 * [NodeJS](http://nodejs.org/download/) > 0.11.9
@@ -35,3 +36,5 @@ The plugin is under MIT license, please see the LICENSE file provided with the m
 [deps.url]: https://david-dm.org/enaqx/videoact
 [devdeps.img]: https://david-dm.org/enaqx/videoact/dev-status.svg
 [devdeps.url]: https://david-dm.org/enaqx/videoact#info=devDependencies
+[waffle.img]: https://badge.waffle.io/enaqx/videoact.png?label=ready&title=Ready
+[waffle.url]: https://waffle.io/enaqx/videoact
