@@ -20,14 +20,13 @@
 ### Technology used:
 * [React](http://facebook.github.io/react/)
 * [PureCSS](http://purecss.io/)
-* [Video.JS](http://www.videojs.com/)
+* [Video.js](http://www.videojs.com/)
 * [Koa](http://koajs.com/)
 * [Passport](http://passportjs.org/)
-* [Gulp]()
+* [Gulp](http://gulpjs.com/)
 * [MongoDB](http://www.mongodb.org/)
 * [Mongoose](http://mongoosejs.com/)
 * [Mocha](http://visionmedia.github.io/mocha/)
-* [Istanbul](https://github.com/gotwarlost/istanbul)
 
 ### License
 
