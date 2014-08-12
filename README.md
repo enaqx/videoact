@@ -4,6 +4,8 @@
 [![devdependencies][devdeps.img]][devdeps.url]
 [![Tasks][waffle.img]][waffle.url]
 
+Your online media sharing through scrolling-style tabloid.
+
 ### Prerequisite
 * [NodeJS](http://nodejs.org/download/) > 0.11.9
 * [npm](https://www.npmjs.org/)
