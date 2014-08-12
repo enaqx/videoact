@@ -1,5 +1,4 @@
-Active Video Sharing
-========================
+## Videoact
 
 [![dependencies][deps.img]][deps.url]
 [![devdependencies][devdeps.img]][devdeps.url]
