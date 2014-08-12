@@ -1,5 +1,5 @@
 {
-  "name": "videoreact",
+  "name": "videoact",
   "version": "0.0.2",
   "description": "Active Video Sharing",
   "main": "server_koa.js",
@@ -55,6 +55,7 @@
     "gulp-less": "1.3.x",
     "gulp-nodemon": "1.0.x",
     "gulp-react": "0.5.x",
+    "istanbul": "0.3.x",
     "mocha": "1.21.x",
     "should": "4.0.x",
     "supertest": "0.13.x"
