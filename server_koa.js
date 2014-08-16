@@ -4,6 +4,7 @@
  */
 var fs = require('fs');
 var koa = require('koa');
+var favicon = require('koa-favicon');
 var mongoose = require('mongoose');
 var passport = require('koa-passport');
 
@@ -34,6 +35,7 @@ fs.readdirSync(models_path).forEach(function (file) {
  * Server
  */
 var app = module.exports  = koa();
+app.use(favicon(__dirname + '/public/favicon.ico'));
 
 require('./config/passport')(passport, config);
 

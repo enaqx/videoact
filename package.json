@@ -33,6 +33,7 @@
     "koa-bodyparser": "1.0.x",
     "koa-compress": "1.0.x",
     "koa-error": "1.1.x",
+    "koa-favicon": "1.1.0",
     "koa-logger": "1.2.x",
     "koa-passport": "0.5.x",
     "koa-response-time": "1.0.x",
