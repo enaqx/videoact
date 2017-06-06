@@ -28,7 +28,7 @@ Your online media sharing through scrolling-style tabloid.
 * [Gulp](http://gulpjs.com/)
 * [MongoDB](http://www.mongodb.org/)
 * [Mongoose](http://mongoosejs.com/)
-* [Mocha](http://visionmedia.github.io/mocha/)
+* [Mocha](http://mochajs.org/)
 
 ### License
 
